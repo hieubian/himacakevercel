@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "name": "Trọng lượng",
+    "data_type": "TEXT"
+  },
+  {
+    "id": 2,
+    "name": "Kích thước",
+    "data_type": "TEXT"
+  },
+  {
+    "id": 3,
+    "name": "Khẩu phần",
+    "data_type": "TEXT"
+  },
+  {
+    "id": 4,
+    "name": "Số tầng",
+    "data_type": "NUMBER"
+  },
+  {
+    "id": 5,
+    "name": "Hương vị",
+    "data_type": "TEXT"
+  },
+  {
+    "id": 6,
+    "name": "Màu sắc",
+    "data_type": "TEXT"
+  },
+  {
+    "id": 7,
+    "name": "Loại bột",
+    "data_type": "TEXT"
+  },
+  {
+    "id": 8,
+    "name": "Hạn sử dụng",
+    "data_type": "TEXT"
+  },
+  {
+    "id": 9,
+    "name": "Cách bảo quản",
+    "data_type": "TEXT"
+  },
+  {
+    "id": 10,
+    "name": "Đóng gói",
+    "data_type": "TEXT"
+  }
+]

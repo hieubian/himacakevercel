@@ -1,0 +1,3026 @@
+[
+  {
+    "id": 1004,
+    "product_id": 1,
+    "attribute_id": 1,
+    "value": "~200 g ±10% (ghi trên nhãn)"
+  },
+  {
+    "id": 1005,
+    "product_id": 1,
+    "attribute_id": 3,
+    "value": "01 bữa / 01 người (sandwich có thể 01 bữa chính)"
+  },
+  {
+    "id": 1006,
+    "product_id": 1,
+    "attribute_id": 5,
+    "value": "Theo công thức món — ít ngọt"
+  },
+  {
+    "id": 1007,
+    "product_id": 1,
+    "attribute_id": 8,
+    "value": "Ngon nhất trong ngày; tối đa 2–3 ngày mát"
+  },
+  {
+    "id": 1008,
+    "product_id": 1,
+    "attribute_id": 9,
+    "value": "Hâm nhẹ trước khi ăn; trữ mát nếu có nhân dễ hỏng"
+  },
+  {
+    "id": 1009,
+    "product_id": 1,
+    "attribute_id": 10,
+    "value": "Túi kraft / hộp giữ nhiệt khi ship"
+  },
+  {
+    "id": 1010,
+    "product_id": 2,
+    "attribute_id": 1,
+    "value": "~200 g ±10% (ghi trên nhãn)"
+  },
+  {
+    "id": 1011,
+    "product_id": 2,
+    "attribute_id": 3,
+    "value": "01 bữa / 01 người (sandwich có thể 01 bữa chính)"
+  },
+  {
+    "id": 1012,
+    "product_id": 2,
+    "attribute_id": 5,
+    "value": "Theo công thức món — ít ngọt"
+  },
+  {
+    "id": 1013,
+    "product_id": 2,
+    "attribute_id": 8,
+    "value": "Ngon nhất trong ngày; tối đa 2–3 ngày mát"
+  },
+  {
+    "id": 1014,
+    "product_id": 2,
+    "attribute_id": 9,
+    "value": "Hâm nhẹ trước khi ăn; trữ mát nếu có nhân dễ hỏng"
+  },
+  {
+    "id": 1015,
+    "product_id": 2,
+    "attribute_id": 10,
+    "value": "Túi kraft / hộp giữ nhiệt khi ship"
+  },
+  {
+    "id": 1016,
+    "product_id": 3,
+    "attribute_id": 2,
+    "value": "Theo cỡ đặt (inch) hoặc mô tả SKU"
+  },
+  {
+    "id": 1017,
+    "product_id": 3,
+    "attribute_id": 3,
+    "value": "Gợi ý 4–12 người tùy size & cách cắt"
+  },
+  {
+    "id": 1018,
+    "product_id": 3,
+    "attribute_id": 4,
+    "value": "3 lớp cốt trở lên (tùy mẫu kem)"
+  },
+  {
+    "id": 1019,
+    "product_id": 3,
+    "attribute_id": 5,
+    "value": "Hương vị đúng theo tên «Bánh kem dâu tây 6 inch»"
+  },
+  {
+    "id": 1020,
+    "product_id": 3,
+    "attribute_id": 8,
+    "value": "48–72 giờ ngăn mát từ giao"
+  },
+  {
+    "id": 1021,
+    "product_id": 3,
+    "attribute_id": 9,
+    "value": "Luôn 0–4°C; không để xe nắng nóng"
+  },
+  {
+    "id": 1022,
+    "product_id": 4,
+    "attribute_id": 2,
+    "value": "Theo cỡ đặt (inch) hoặc mô tả SKU"
+  },
+  {
+    "id": 1023,
+    "product_id": 4,
+    "attribute_id": 3,
+    "value": "Gợi ý 4–12 người tùy size & cách cắt"
+  },
+  {
+    "id": 1024,
+    "product_id": 4,
+    "attribute_id": 4,
+    "value": "3 lớp cốt trở lên (tùy mẫu kem)"
+  },
+  {
+    "id": 1025,
+    "product_id": 4,
+    "attribute_id": 5,
+    "value": "Hương vị đúng theo tên «Tiramisu cốc Hima»"
+  },
+  {
+    "id": 1026,
+    "product_id": 4,
+    "attribute_id": 8,
+    "value": "48–72 giờ ngăn mát từ giao"
+  },
+  {
+    "id": 1027,
+    "product_id": 4,
+    "attribute_id": 9,
+    "value": "Luôn 0–4°C; không để xe nắng nóng"
+  },
+  {
+    "id": 1028,
+    "product_id": 5,
+    "attribute_id": 2,
+    "value": "Theo cỡ đặt (inch) hoặc mô tả SKU"
+  },
+  {
+    "id": 1029,
+    "product_id": 5,
+    "attribute_id": 3,
+    "value": "Gợi ý 4–12 người tùy size & cách cắt"
+  },
+  {
+    "id": 1030,
+    "product_id": 5,
+    "attribute_id": 4,
+    "value": "3 lớp cốt trở lên (tùy mẫu kem)"
+  },
+  {
+    "id": 1031,
+    "product_id": 5,
+    "attribute_id": 5,
+    "value": "Hương vị đúng theo tên «Cupcake hoa tươi (hộp 6)»"
+  },
+  {
+    "id": 1032,
+    "product_id": 5,
+    "attribute_id": 8,
+    "value": "48–72 giờ ngăn mát từ giao"
+  },
+  {
+    "id": 1033,
+    "product_id": 5,
+    "attribute_id": 9,
+    "value": "Luôn 0–4°C; không để xe nắng nóng"
+  },
+  {
+    "id": 1034,
+    "product_id": 6,
+    "attribute_id": 2,
+    "value": "Theo cỡ đặt (inch) hoặc mô tả SKU"
+  },
+  {
+    "id": 1035,
+    "product_id": 6,
+    "attribute_id": 3,
+    "value": "Gợi ý 4–12 người tùy size & cách cắt"
+  },
+  {
+    "id": 1036,
+    "product_id": 6,
+    "attribute_id": 4,
+    "value": "3 lớp cốt trở lên (tùy mẫu kem)"
+  },
+  {
+    "id": 1037,
+    "product_id": 6,
+    "attribute_id": 5,
+    "value": "Hương vị đúng theo tên «Macaron hỗn hợp 6 vị»"
+  },
+  {
+    "id": 1038,
+    "product_id": 6,
+    "attribute_id": 8,
+    "value": "48–72 giờ ngăn mát từ giao"
+  },
+  {
+    "id": 1039,
+    "product_id": 6,
+    "attribute_id": 9,
+    "value": "Luôn 0–4°C; không để xe nắng nóng"
+  },
+  {
+    "id": 1040,
+    "product_id": 7,
+    "attribute_id": 2,
+    "value": "Theo cỡ đặt (inch) hoặc mô tả SKU"
+  },
+  {
+    "id": 1041,
+    "product_id": 7,
+    "attribute_id": 3,
+    "value": "Gợi ý 4–12 người tùy size & cách cắt"
+  },
+  {
+    "id": 1042,
+    "product_id": 7,
+    "attribute_id": 4,
+    "value": "3 lớp cốt trở lên (tùy mẫu kem)"
+  },
+  {
+    "id": 1043,
+    "product_id": 7,
+    "attribute_id": 5,
+    "value": "Hương vị đúng theo tên «Brownie dark chocolate 8 ô»"
+  },
+  {
+    "id": 1044,
+    "product_id": 7,
+    "attribute_id": 8,
+    "value": "48–72 giờ ngăn mát từ giao"
+  },
+  {
+    "id": 1045,
+    "product_id": 7,
+    "attribute_id": 9,
+    "value": "Luôn 0–4°C; không để xe nắng nóng"
+  },
+  {
+    "id": 1046,
+    "product_id": 8,
+    "attribute_id": 2,
+    "value": "Cỡ ly / ml — chọn trên biến thể"
+  },
+  {
+    "id": 1047,
+    "product_id": 8,
+    "attribute_id": 5,
+    "value": "Pha tại quầy — thành phần ghi trên ly"
+  },
+  {
+    "id": 1048,
+    "product_id": 8,
+    "attribute_id": 3,
+    "value": "01 phần / người"
+  },
+  {
+    "id": 1049,
+    "product_id": 8,
+    "attribute_id": 8,
+    "value": "Dùng trong ngày; ngon nhất khi mới pha"
+  },
+  {
+    "id": 1050,
+    "product_id": 8,
+    "attribute_id": 9,
+    "value": "Giữ mát; lắc đều nếu có topping"
+  },
+  {
+    "id": 1051,
+    "product_id": 8,
+    "attribute_id": 10,
+    "value": "Ly có nắp chống tràn"
+  },
+  {
+    "id": 1052,
+    "product_id": 9,
+    "attribute_id": 2,
+    "value": "Cỡ ly / ml — chọn trên biến thể"
+  },
+  {
+    "id": 1053,
+    "product_id": 9,
+    "attribute_id": 5,
+    "value": "Pha tại quầy — thành phần ghi trên ly"
+  },
+  {
+    "id": 1054,
+    "product_id": 9,
+    "attribute_id": 3,
+    "value": "01 phần / người"
+  },
+  {
+    "id": 1055,
+    "product_id": 9,
+    "attribute_id": 8,
+    "value": "Dùng trong ngày; ngon nhất khi mới pha"
+  },
+  {
+    "id": 1056,
+    "product_id": 9,
+    "attribute_id": 9,
+    "value": "Giữ mát; lắc đều nếu có topping"
+  },
+  {
+    "id": 1057,
+    "product_id": 9,
+    "attribute_id": 10,
+    "value": "Ly có nắp chống tràn"
+  },
+  {
+    "id": 1058,
+    "product_id": 10,
+    "attribute_id": 2,
+    "value": "Cỡ ly / ml — chọn trên biến thể"
+  },
+  {
+    "id": 1059,
+    "product_id": 10,
+    "attribute_id": 5,
+    "value": "Pha tại quầy — thành phần ghi trên ly"
+  },
+  {
+    "id": 1060,
+    "product_id": 10,
+    "attribute_id": 3,
+    "value": "01 phần / người"
+  },
+  {
+    "id": 1061,
+    "product_id": 10,
+    "attribute_id": 8,
+    "value": "Dùng trong ngày; ngon nhất khi mới pha"
+  },
+  {
+    "id": 1062,
+    "product_id": 10,
+    "attribute_id": 9,
+    "value": "Giữ mát; lắc đều nếu có topping"
+  },
+  {
+    "id": 1063,
+    "product_id": 10,
+    "attribute_id": 10,
+    "value": "Ly có nắp chống tràn"
+  },
+  {
+    "id": 1064,
+    "product_id": 11,
+    "attribute_id": 1,
+    "value": "Quy cách theo đơn & nhãn"
+  },
+  {
+    "id": 1065,
+    "product_id": 11,
+    "attribute_id": 2,
+    "value": "Kích thước / dung tích theo SKU"
+  },
+  {
+    "id": 1066,
+    "product_id": 11,
+    "attribute_id": 3,
+    "value": "Khẩu phần gợi ý"
+  },
+  {
+    "id": 1067,
+    "product_id": 11,
+    "attribute_id": 5,
+    "value": "Đặc trưng «Sừng trâu sữa dừa nướng»"
+  },
+  {
+    "id": 1068,
+    "product_id": 11,
+    "attribute_id": 8,
+    "value": "Hạn dùng: tham khảo nhãn đi kèm"
+  },
+  {
+    "id": 1069,
+    "product_id": 11,
+    "attribute_id": 9,
+    "value": "Bảo quản theo loại sản phẩm (mát / khô / đông)"
+  },
+  {
+    "id": 1070,
+    "product_id": 12,
+    "attribute_id": 1,
+    "value": "Quy cách theo đơn & nhãn"
+  },
+  {
+    "id": 1071,
+    "product_id": 12,
+    "attribute_id": 2,
+    "value": "Kích thước / dung tích theo SKU"
+  },
+  {
+    "id": 1072,
+    "product_id": 12,
+    "attribute_id": 3,
+    "value": "Khẩu phần gợi ý"
+  },
+  {
+    "id": 1073,
+    "product_id": 12,
+    "attribute_id": 5,
+    "value": "Đặc trưng «Bông lan phô mai nướng chậm»"
+  },
+  {
+    "id": 1074,
+    "product_id": 12,
+    "attribute_id": 8,
+    "value": "Hạn dùng: tham khảo nhãn đi kèm"
+  },
+  {
+    "id": 1075,
+    "product_id": 12,
+    "attribute_id": 9,
+    "value": "Bảo quản theo loại sản phẩm (mát / khô / đông)"
+  },
+  {
+    "id": 1076,
+    "product_id": 13,
+    "attribute_id": 2,
+    "value": "Theo cỡ đặt (inch) hoặc mô tả SKU"
+  },
+  {
+    "id": 1077,
+    "product_id": 13,
+    "attribute_id": 3,
+    "value": "Gợi ý 4–12 người tùy size & cách cắt"
+  },
+  {
+    "id": 1078,
+    "product_id": 13,
+    "attribute_id": 4,
+    "value": "3 lớp cốt trở lên (tùy mẫu kem)"
+  },
+  {
+    "id": 1079,
+    "product_id": 13,
+    "attribute_id": 5,
+    "value": "Hương vị đúng theo tên «Bánh kem bắp 4 inch»"
+  },
+  {
+    "id": 1080,
+    "product_id": 13,
+    "attribute_id": 8,
+    "value": "48–72 giờ ngăn mát từ giao"
+  },
+  {
+    "id": 1081,
+    "product_id": 13,
+    "attribute_id": 9,
+    "value": "Luôn 0–4°C; không để xe nắng nóng"
+  },
+  {
+    "id": 1082,
+    "product_id": 14,
+    "attribute_id": 2,
+    "value": "Theo cỡ đặt (inch) hoặc mô tả SKU"
+  },
+  {
+    "id": 1083,
+    "product_id": 14,
+    "attribute_id": 3,
+    "value": "Gợi ý 4–12 người tùy size & cách cắt"
+  },
+  {
+    "id": 1084,
+    "product_id": 14,
+    "attribute_id": 4,
+    "value": "3 lớp cốt trở lên (tùy mẫu kem)"
+  },
+  {
+    "id": 1085,
+    "product_id": 14,
+    "attribute_id": 5,
+    "value": "Hương vị đúng theo tên «Bánh kem socola 8 inch»"
+  },
+  {
+    "id": 1086,
+    "product_id": 14,
+    "attribute_id": 8,
+    "value": "48–72 giờ ngăn mát từ giao"
+  },
+  {
+    "id": 1087,
+    "product_id": 14,
+    "attribute_id": 9,
+    "value": "Luôn 0–4°C; không để xe nắng nóng"
+  },
+  {
+    "id": 1088,
+    "product_id": 15,
+    "attribute_id": 1,
+    "value": "Theo bao bì từng lô"
+  },
+  {
+    "id": 1089,
+    "product_id": 15,
+    "attribute_id": 5,
+    "value": "Profile vị «Hộp biscotti hạnh nhân»"
+  },
+  {
+    "id": 1090,
+    "product_id": 15,
+    "attribute_id": 8,
+    "value": "Xem NSX/HSD trên nhãn"
+  },
+  {
+    "id": 1091,
+    "product_id": 15,
+    "attribute_id": 9,
+    "value": "Khô ráo, tránh ẩm"
+  },
+  {
+    "id": 1092,
+    "product_id": 15,
+    "attribute_id": 10,
+    "value": "Hộp / túi seal"
+  },
+  {
+    "id": 1093,
+    "product_id": 15,
+    "attribute_id": 7,
+    "value": "Bột mì, bơ, trứng (tuỳ lô)"
+  },
+  {
+    "id": 1094,
+    "product_id": 16,
+    "attribute_id": 1,
+    "value": "Theo hộp đặt"
+  },
+  {
+    "id": 1095,
+    "product_id": 16,
+    "attribute_id": 8,
+    "value": "Theo in trên bao bì sau mở"
+  },
+  {
+    "id": 1096,
+    "product_id": 16,
+    "attribute_id": 9,
+    "value": "-18°C / 0–4°C tùy loại; tránh xả đông nhiều lần"
+  },
+  {
+    "id": 1097,
+    "product_id": 16,
+    "attribute_id": 10,
+    "value": "Túi giữ lạnh khi giao"
+  },
+  {
+    "id": 1098,
+    "product_id": 16,
+    "attribute_id": 5,
+    "value": "Hương vị «Bánh bao kim sa (hộp 4)»"
+  },
+  {
+    "id": 1099,
+    "product_id": 16,
+    "attribute_id": 3,
+    "value": "Khẩu phần gợi ý trên nhãn"
+  },
+  {
+    "id": 1100,
+    "product_id": 17,
+    "attribute_id": 1,
+    "value": "Theo hộp đặt"
+  },
+  {
+    "id": 1101,
+    "product_id": 17,
+    "attribute_id": 8,
+    "value": "Theo in trên bao bì sau mở"
+  },
+  {
+    "id": 1102,
+    "product_id": 17,
+    "attribute_id": 9,
+    "value": "-18°C / 0–4°C tùy loại; tránh xả đông nhiều lần"
+  },
+  {
+    "id": 1103,
+    "product_id": 17,
+    "attribute_id": 10,
+    "value": "Túi giữ lạnh khi giao"
+  },
+  {
+    "id": 1104,
+    "product_id": 17,
+    "attribute_id": 5,
+    "value": "Hương vị «Pizza mini pepperoni»"
+  },
+  {
+    "id": 1105,
+    "product_id": 17,
+    "attribute_id": 3,
+    "value": "Khẩu phần gợi ý trên nhãn"
+  },
+  {
+    "id": 1106,
+    "product_id": 18,
+    "attribute_id": 2,
+    "value": "Cỡ ly / ml — chọn trên biến thể"
+  },
+  {
+    "id": 1107,
+    "product_id": 18,
+    "attribute_id": 5,
+    "value": "Pha tại quầy — thành phần ghi trên ly"
+  },
+  {
+    "id": 1108,
+    "product_id": 18,
+    "attribute_id": 3,
+    "value": "01 phần / người"
+  },
+  {
+    "id": 1109,
+    "product_id": 18,
+    "attribute_id": 8,
+    "value": "Dùng trong ngày; ngon nhất khi mới pha"
+  },
+  {
+    "id": 1110,
+    "product_id": 18,
+    "attribute_id": 9,
+    "value": "Giữ mát; lắc đều nếu có topping"
+  },
+  {
+    "id": 1111,
+    "product_id": 18,
+    "attribute_id": 10,
+    "value": "Ly có nắp chống tràn"
+  },
+  {
+    "id": 1112,
+    "product_id": 19,
+    "attribute_id": 2,
+    "value": "Cỡ ly / ml — chọn trên biến thể"
+  },
+  {
+    "id": 1113,
+    "product_id": 19,
+    "attribute_id": 5,
+    "value": "Pha tại quầy — thành phần ghi trên ly"
+  },
+  {
+    "id": 1114,
+    "product_id": 19,
+    "attribute_id": 3,
+    "value": "01 phần / người"
+  },
+  {
+    "id": 1115,
+    "product_id": 19,
+    "attribute_id": 8,
+    "value": "Dùng trong ngày; ngon nhất khi mới pha"
+  },
+  {
+    "id": 1116,
+    "product_id": 19,
+    "attribute_id": 9,
+    "value": "Giữ mát; lắc đều nếu có topping"
+  },
+  {
+    "id": 1117,
+    "product_id": 19,
+    "attribute_id": 10,
+    "value": "Ly có nắp chống tràn"
+  },
+  {
+    "id": 1118,
+    "product_id": 20,
+    "attribute_id": 1,
+    "value": "Quy cách theo đơn & nhãn"
+  },
+  {
+    "id": 1119,
+    "product_id": 20,
+    "attribute_id": 2,
+    "value": "Kích thước / dung tích theo SKU"
+  },
+  {
+    "id": 1120,
+    "product_id": 20,
+    "attribute_id": 3,
+    "value": "Khẩu phần gợi ý"
+  },
+  {
+    "id": 1121,
+    "product_id": 20,
+    "attribute_id": 5,
+    "value": "Đặc trưng «Set cupcake văn phòng 12 chiếc»"
+  },
+  {
+    "id": 1122,
+    "product_id": 20,
+    "attribute_id": 8,
+    "value": "Hạn dùng: tham khảo nhãn đi kèm"
+  },
+  {
+    "id": 1123,
+    "product_id": 20,
+    "attribute_id": 9,
+    "value": "Bảo quản theo loại sản phẩm (mát / khô / đông)"
+  },
+  {
+    "id": 1124,
+    "product_id": 21,
+    "attribute_id": 1,
+    "value": "Quy cách theo đơn & nhãn"
+  },
+  {
+    "id": 1125,
+    "product_id": 21,
+    "attribute_id": 2,
+    "value": "Kích thước / dung tích theo SKU"
+  },
+  {
+    "id": 1126,
+    "product_id": 21,
+    "attribute_id": 3,
+    "value": "Khẩu phần gợi ý"
+  },
+  {
+    "id": 1127,
+    "product_id": 21,
+    "attribute_id": 5,
+    "value": "Đặc trưng «Gói trang trí tiệc sinh nhật»"
+  },
+  {
+    "id": 1128,
+    "product_id": 21,
+    "attribute_id": 8,
+    "value": "Hạn dùng: tham khảo nhãn đi kèm"
+  },
+  {
+    "id": 1129,
+    "product_id": 21,
+    "attribute_id": 9,
+    "value": "Bảo quản theo loại sản phẩm (mát / khô / đông)"
+  },
+  {
+    "id": 1130,
+    "product_id": 22,
+    "attribute_id": 1,
+    "value": "Quy cách theo đơn & nhãn"
+  },
+  {
+    "id": 1131,
+    "product_id": 22,
+    "attribute_id": 2,
+    "value": "Kích thước / dung tích theo SKU"
+  },
+  {
+    "id": 1132,
+    "product_id": 22,
+    "attribute_id": 3,
+    "value": "Khẩu phần gợi ý"
+  },
+  {
+    "id": 1133,
+    "product_id": 22,
+    "attribute_id": 5,
+    "value": "Đặc trưng «Bộ nến sinh nhật 24 cây»"
+  },
+  {
+    "id": 1134,
+    "product_id": 22,
+    "attribute_id": 8,
+    "value": "Hạn dùng: tham khảo nhãn đi kèm"
+  },
+  {
+    "id": 1135,
+    "product_id": 22,
+    "attribute_id": 9,
+    "value": "Bảo quản theo loại sản phẩm (mát / khô / đông)"
+  },
+  {
+    "id": 1136,
+    "product_id": 23,
+    "attribute_id": 1,
+    "value": "Quy cách theo đơn & nhãn"
+  },
+  {
+    "id": 1137,
+    "product_id": 23,
+    "attribute_id": 2,
+    "value": "Kích thước / dung tích theo SKU"
+  },
+  {
+    "id": 1138,
+    "product_id": 23,
+    "attribute_id": 3,
+    "value": "Khẩu phần gợi ý"
+  },
+  {
+    "id": 1139,
+    "product_id": 23,
+    "attribute_id": 5,
+    "value": "Đặc trưng «Bánh signature Macchi»"
+  },
+  {
+    "id": 1140,
+    "product_id": 23,
+    "attribute_id": 8,
+    "value": "Hạn dùng: tham khảo nhãn đi kèm"
+  },
+  {
+    "id": 1141,
+    "product_id": 23,
+    "attribute_id": 9,
+    "value": "Bảo quản theo loại sản phẩm (mát / khô / đông)"
+  },
+  {
+    "id": 1142,
+    "product_id": 24,
+    "attribute_id": 1,
+    "value": "Quy cách theo đơn & nhãn"
+  },
+  {
+    "id": 1143,
+    "product_id": 24,
+    "attribute_id": 2,
+    "value": "Kích thước / dung tích theo SKU"
+  },
+  {
+    "id": 1144,
+    "product_id": 24,
+    "attribute_id": 3,
+    "value": "Khẩu phần gợi ý"
+  },
+  {
+    "id": 1145,
+    "product_id": 24,
+    "attribute_id": 5,
+    "value": "Đặc trưng «Bánh mì que phô mai»"
+  },
+  {
+    "id": 1146,
+    "product_id": 24,
+    "attribute_id": 8,
+    "value": "Hạn dùng: tham khảo nhãn đi kèm"
+  },
+  {
+    "id": 1147,
+    "product_id": 24,
+    "attribute_id": 9,
+    "value": "Bảo quản theo loại sản phẩm (mát / khô / đông)"
+  },
+  {
+    "id": 1148,
+    "product_id": 25,
+    "attribute_id": 1,
+    "value": "Quy cách theo đơn & nhãn"
+  },
+  {
+    "id": 1149,
+    "product_id": 25,
+    "attribute_id": 2,
+    "value": "Kích thước / dung tích theo SKU"
+  },
+  {
+    "id": 1150,
+    "product_id": 25,
+    "attribute_id": 3,
+    "value": "Khẩu phần gợi ý"
+  },
+  {
+    "id": 1151,
+    "product_id": 25,
+    "attribute_id": 5,
+    "value": "Đặc trưng «Tart phô mai Nhật (hộp 4)»"
+  },
+  {
+    "id": 1152,
+    "product_id": 25,
+    "attribute_id": 8,
+    "value": "Hạn dùng: tham khảo nhãn đi kèm"
+  },
+  {
+    "id": 1153,
+    "product_id": 25,
+    "attribute_id": 9,
+    "value": "Bảo quản theo loại sản phẩm (mát / khô / đông)"
+  },
+  {
+    "id": 1154,
+    "product_id": 26,
+    "attribute_id": 1,
+    "value": "Quy cách theo đơn & nhãn"
+  },
+  {
+    "id": 1155,
+    "product_id": 26,
+    "attribute_id": 2,
+    "value": "Kích thước / dung tích theo SKU"
+  },
+  {
+    "id": 1156,
+    "product_id": 26,
+    "attribute_id": 3,
+    "value": "Khẩu phần gợi ý"
+  },
+  {
+    "id": 1157,
+    "product_id": 26,
+    "attribute_id": 5,
+    "value": "Đặc trưng «Panna cotta dừa cốc»"
+  },
+  {
+    "id": 1158,
+    "product_id": 26,
+    "attribute_id": 8,
+    "value": "Hạn dùng: tham khảo nhãn đi kèm"
+  },
+  {
+    "id": 1159,
+    "product_id": 26,
+    "attribute_id": 9,
+    "value": "Bảo quản theo loại sản phẩm (mát / khô / đông)"
+  },
+  {
+    "id": 1160,
+    "product_id": 27,
+    "attribute_id": 1,
+    "value": "Quy cách theo đơn & nhãn"
+  },
+  {
+    "id": 1161,
+    "product_id": 27,
+    "attribute_id": 2,
+    "value": "Kích thước / dung tích theo SKU"
+  },
+  {
+    "id": 1162,
+    "product_id": 27,
+    "attribute_id": 3,
+    "value": "Khẩu phần gợi ý"
+  },
+  {
+    "id": 1163,
+    "product_id": 27,
+    "attribute_id": 5,
+    "value": "Đặc trưng «Kẹo nougat hạnh nhân 250g»"
+  },
+  {
+    "id": 1164,
+    "product_id": 27,
+    "attribute_id": 8,
+    "value": "Hạn dùng: tham khảo nhãn đi kèm"
+  },
+  {
+    "id": 1165,
+    "product_id": 27,
+    "attribute_id": 9,
+    "value": "Bảo quản theo loại sản phẩm (mát / khô / đông)"
+  },
+  {
+    "id": 1166,
+    "product_id": 28,
+    "attribute_id": 1,
+    "value": "Theo hộp đặt"
+  },
+  {
+    "id": 1167,
+    "product_id": 28,
+    "attribute_id": 8,
+    "value": "Theo in trên bao bì sau mở"
+  },
+  {
+    "id": 1168,
+    "product_id": 28,
+    "attribute_id": 9,
+    "value": "-18°C / 0–4°C tùy loại; tránh xả đông nhiều lần"
+  },
+  {
+    "id": 1169,
+    "product_id": 28,
+    "attribute_id": 10,
+    "value": "Túi giữ lạnh khi giao"
+  },
+  {
+    "id": 1170,
+    "product_id": 28,
+    "attribute_id": 5,
+    "value": "Hương vị «Kem que socola Bỉ (hộp 10)»"
+  },
+  {
+    "id": 1171,
+    "product_id": 28,
+    "attribute_id": 3,
+    "value": "Khẩu phần gợi ý trên nhãn"
+  },
+  {
+    "id": 1172,
+    "product_id": 29,
+    "attribute_id": 1,
+    "value": "~200 g ±10% (ghi trên nhãn)"
+  },
+  {
+    "id": 1173,
+    "product_id": 29,
+    "attribute_id": 3,
+    "value": "01 bữa / 01 người (sandwich có thể 01 bữa chính)"
+  },
+  {
+    "id": 1174,
+    "product_id": 29,
+    "attribute_id": 5,
+    "value": "Theo công thức món — ít ngọt"
+  },
+  {
+    "id": 1175,
+    "product_id": 29,
+    "attribute_id": 8,
+    "value": "Ngon nhất trong ngày; tối đa 2–3 ngày mát"
+  },
+  {
+    "id": 1176,
+    "product_id": 29,
+    "attribute_id": 9,
+    "value": "Hâm nhẹ trước khi ăn; trữ mát nếu có nhân dễ hỏng"
+  },
+  {
+    "id": 1177,
+    "product_id": 29,
+    "attribute_id": 10,
+    "value": "Túi kraft / hộp giữ nhiệt khi ship"
+  },
+  {
+    "id": 1178,
+    "product_id": 30,
+    "attribute_id": 1,
+    "value": "~200 g ±10% (ghi trên nhãn)"
+  },
+  {
+    "id": 1179,
+    "product_id": 30,
+    "attribute_id": 3,
+    "value": "01 bữa / 01 người (sandwich có thể 01 bữa chính)"
+  },
+  {
+    "id": 1180,
+    "product_id": 30,
+    "attribute_id": 5,
+    "value": "Theo công thức món — ít ngọt"
+  },
+  {
+    "id": 1181,
+    "product_id": 30,
+    "attribute_id": 8,
+    "value": "Ngon nhất trong ngày; tối đa 2–3 ngày mát"
+  },
+  {
+    "id": 1182,
+    "product_id": 30,
+    "attribute_id": 9,
+    "value": "Hâm nhẹ trước khi ăn; trữ mát nếu có nhân dễ hỏng"
+  },
+  {
+    "id": 1183,
+    "product_id": 30,
+    "attribute_id": 10,
+    "value": "Túi kraft / hộp giữ nhiệt khi ship"
+  },
+  {
+    "id": 1184,
+    "product_id": 31,
+    "attribute_id": 1,
+    "value": "~200 g ±10% (ghi trên nhãn)"
+  },
+  {
+    "id": 1185,
+    "product_id": 31,
+    "attribute_id": 3,
+    "value": "01 bữa / 01 người (sandwich có thể 01 bữa chính)"
+  },
+  {
+    "id": 1186,
+    "product_id": 31,
+    "attribute_id": 5,
+    "value": "Theo công thức món — ít ngọt"
+  },
+  {
+    "id": 1187,
+    "product_id": 31,
+    "attribute_id": 8,
+    "value": "Ngon nhất trong ngày; tối đa 2–3 ngày mát"
+  },
+  {
+    "id": 1188,
+    "product_id": 31,
+    "attribute_id": 9,
+    "value": "Hâm nhẹ trước khi ăn; trữ mát nếu có nhân dễ hỏng"
+  },
+  {
+    "id": 1189,
+    "product_id": 31,
+    "attribute_id": 10,
+    "value": "Túi kraft / hộp giữ nhiệt khi ship"
+  },
+  {
+    "id": 1190,
+    "product_id": 32,
+    "attribute_id": 1,
+    "value": "~200 g ±10% (ghi trên nhãn)"
+  },
+  {
+    "id": 1191,
+    "product_id": 32,
+    "attribute_id": 3,
+    "value": "01 bữa / 01 người (sandwich có thể 01 bữa chính)"
+  },
+  {
+    "id": 1192,
+    "product_id": 32,
+    "attribute_id": 5,
+    "value": "Theo công thức món — ít ngọt"
+  },
+  {
+    "id": 1193,
+    "product_id": 32,
+    "attribute_id": 8,
+    "value": "Ngon nhất trong ngày; tối đa 2–3 ngày mát"
+  },
+  {
+    "id": 1194,
+    "product_id": 32,
+    "attribute_id": 9,
+    "value": "Hâm nhẹ trước khi ăn; trữ mát nếu có nhân dễ hỏng"
+  },
+  {
+    "id": 1195,
+    "product_id": 32,
+    "attribute_id": 10,
+    "value": "Túi kraft / hộp giữ nhiệt khi ship"
+  },
+  {
+    "id": 1196,
+    "product_id": 33,
+    "attribute_id": 1,
+    "value": "~200 g ±10% (ghi trên nhãn)"
+  },
+  {
+    "id": 1197,
+    "product_id": 33,
+    "attribute_id": 3,
+    "value": "01 bữa / 01 người (sandwich có thể 01 bữa chính)"
+  },
+  {
+    "id": 1198,
+    "product_id": 33,
+    "attribute_id": 5,
+    "value": "Theo công thức món — ít ngọt"
+  },
+  {
+    "id": 1199,
+    "product_id": 33,
+    "attribute_id": 8,
+    "value": "Ngon nhất trong ngày; tối đa 2–3 ngày mát"
+  },
+  {
+    "id": 1200,
+    "product_id": 33,
+    "attribute_id": 9,
+    "value": "Hâm nhẹ trước khi ăn; trữ mát nếu có nhân dễ hỏng"
+  },
+  {
+    "id": 1201,
+    "product_id": 33,
+    "attribute_id": 10,
+    "value": "Túi kraft / hộp giữ nhiệt khi ship"
+  },
+  {
+    "id": 1202,
+    "product_id": 34,
+    "attribute_id": 2,
+    "value": "Theo cỡ đặt (inch) hoặc mô tả SKU"
+  },
+  {
+    "id": 1203,
+    "product_id": 34,
+    "attribute_id": 3,
+    "value": "Gợi ý 4–12 người tùy size & cách cắt"
+  },
+  {
+    "id": 1204,
+    "product_id": 34,
+    "attribute_id": 4,
+    "value": "3 lớp cốt trở lên (tùy mẫu kem)"
+  },
+  {
+    "id": 1205,
+    "product_id": 34,
+    "attribute_id": 5,
+    "value": "Hương vị đúng theo tên «Bánh kem chanh leo 4 inch»"
+  },
+  {
+    "id": 1206,
+    "product_id": 34,
+    "attribute_id": 8,
+    "value": "48–72 giờ ngăn mát từ giao"
+  },
+  {
+    "id": 1207,
+    "product_id": 34,
+    "attribute_id": 9,
+    "value": "Luôn 0–4°C; không để xe nắng nóng"
+  },
+  {
+    "id": 1208,
+    "product_id": 35,
+    "attribute_id": 2,
+    "value": "Theo cỡ đặt (inch) hoặc mô tả SKU"
+  },
+  {
+    "id": 1209,
+    "product_id": 35,
+    "attribute_id": 3,
+    "value": "Gợi ý 4–12 người tùy size & cách cắt"
+  },
+  {
+    "id": 1210,
+    "product_id": 35,
+    "attribute_id": 4,
+    "value": "3 lớp cốt trở lên (tùy mẫu kem)"
+  },
+  {
+    "id": 1211,
+    "product_id": 35,
+    "attribute_id": 5,
+    "value": "Hương vị đúng theo tên «Bánh kem oreo crumble 6 inch»"
+  },
+  {
+    "id": 1212,
+    "product_id": 35,
+    "attribute_id": 8,
+    "value": "48–72 giờ ngăn mát từ giao"
+  },
+  {
+    "id": 1213,
+    "product_id": 35,
+    "attribute_id": 9,
+    "value": "Luôn 0–4°C; không để xe nắng nóng"
+  },
+  {
+    "id": 1214,
+    "product_id": 36,
+    "attribute_id": 2,
+    "value": "Theo cỡ đặt (inch) hoặc mô tả SKU"
+  },
+  {
+    "id": 1215,
+    "product_id": 36,
+    "attribute_id": 3,
+    "value": "Gợi ý 4–12 người tùy size & cách cắt"
+  },
+  {
+    "id": 1216,
+    "product_id": 36,
+    "attribute_id": 4,
+    "value": "3 lớp cốt trở lên (tùy mẫu kem)"
+  },
+  {
+    "id": 1217,
+    "product_id": 36,
+    "attribute_id": 5,
+    "value": "Hương vị đúng theo tên «Bánh kem matcha azuki 8 inch»"
+  },
+  {
+    "id": 1218,
+    "product_id": 36,
+    "attribute_id": 8,
+    "value": "48–72 giờ ngăn mát từ giao"
+  },
+  {
+    "id": 1219,
+    "product_id": 36,
+    "attribute_id": 9,
+    "value": "Luôn 0–4°C; không để xe nắng nóng"
+  },
+  {
+    "id": 1220,
+    "product_id": 37,
+    "attribute_id": 2,
+    "value": "Theo cỡ đặt (inch) hoặc mô tả SKU"
+  },
+  {
+    "id": 1221,
+    "product_id": 37,
+    "attribute_id": 3,
+    "value": "Gợi ý 4–12 người tùy size & cách cắt"
+  },
+  {
+    "id": 1222,
+    "product_id": 37,
+    "attribute_id": 4,
+    "value": "3 lớp cốt trở lên (tùy mẫu kem)"
+  },
+  {
+    "id": 1223,
+    "product_id": 37,
+    "attribute_id": 5,
+    "value": "Hương vị đúng theo tên «Bánh kem red velvet 6 inch»"
+  },
+  {
+    "id": 1224,
+    "product_id": 37,
+    "attribute_id": 8,
+    "value": "48–72 giờ ngăn mát từ giao"
+  },
+  {
+    "id": 1225,
+    "product_id": 37,
+    "attribute_id": 9,
+    "value": "Luôn 0–4°C; không để xe nắng nóng"
+  },
+  {
+    "id": 1226,
+    "product_id": 38,
+    "attribute_id": 2,
+    "value": "Theo cỡ đặt (inch) hoặc mô tả SKU"
+  },
+  {
+    "id": 1227,
+    "product_id": 38,
+    "attribute_id": 3,
+    "value": "Gợi ý 4–12 người tùy size & cách cắt"
+  },
+  {
+    "id": 1228,
+    "product_id": 38,
+    "attribute_id": 4,
+    "value": "3 lớp cốt trở lên (tùy mẫu kem)"
+  },
+  {
+    "id": 1229,
+    "product_id": 38,
+    "attribute_id": 5,
+    "value": "Hương vị đúng theo tên «Bánh kem mousse xoài 4 inch»"
+  },
+  {
+    "id": 1230,
+    "product_id": 38,
+    "attribute_id": 8,
+    "value": "48–72 giờ ngăn mát từ giao"
+  },
+  {
+    "id": 1231,
+    "product_id": 38,
+    "attribute_id": 9,
+    "value": "Luôn 0–4°C; không để xe nắng nóng"
+  },
+  {
+    "id": 1232,
+    "product_id": 39,
+    "attribute_id": 2,
+    "value": "Theo cỡ đặt (inch) hoặc mô tả SKU"
+  },
+  {
+    "id": 1233,
+    "product_id": 39,
+    "attribute_id": 3,
+    "value": "Gợi ý 4–12 người tùy size & cách cắt"
+  },
+  {
+    "id": 1234,
+    "product_id": 39,
+    "attribute_id": 4,
+    "value": "3 lớp cốt trở lên (tùy mẫu kem)"
+  },
+  {
+    "id": 1235,
+    "product_id": 39,
+    "attribute_id": 5,
+    "value": "Hương vị đúng theo tên «Bánh kem pistachio raspberry 8 inch»"
+  },
+  {
+    "id": 1236,
+    "product_id": 39,
+    "attribute_id": 8,
+    "value": "48–72 giờ ngăn mát từ giao"
+  },
+  {
+    "id": 1237,
+    "product_id": 39,
+    "attribute_id": 9,
+    "value": "Luôn 0–4°C; không để xe nắng nóng"
+  },
+  {
+    "id": 1238,
+    "product_id": 40,
+    "attribute_id": 2,
+    "value": "Theo cỡ đặt (inch) hoặc mô tả SKU"
+  },
+  {
+    "id": 1239,
+    "product_id": 40,
+    "attribute_id": 3,
+    "value": "Gợi ý 4–12 người tùy size & cách cắt"
+  },
+  {
+    "id": 1240,
+    "product_id": 40,
+    "attribute_id": 4,
+    "value": "3 lớp cốt trở lên (tùy mẫu kem)"
+  },
+  {
+    "id": 1241,
+    "product_id": 40,
+    "attribute_id": 5,
+    "value": "Hương vị đúng theo tên «Bánh kem trà sữa trân châu 6 inch»"
+  },
+  {
+    "id": 1242,
+    "product_id": 40,
+    "attribute_id": 8,
+    "value": "48–72 giờ ngăn mát từ giao"
+  },
+  {
+    "id": 1243,
+    "product_id": 40,
+    "attribute_id": 9,
+    "value": "Luôn 0–4°C; không để xe nắng nóng"
+  },
+  {
+    "id": 1244,
+    "product_id": 41,
+    "attribute_id": 1,
+    "value": "Quy cách theo đơn & nhãn"
+  },
+  {
+    "id": 1245,
+    "product_id": 41,
+    "attribute_id": 2,
+    "value": "Kích thước / dung tích theo SKU"
+  },
+  {
+    "id": 1246,
+    "product_id": 41,
+    "attribute_id": 3,
+    "value": "Khẩu phần gợi ý"
+  },
+  {
+    "id": 1247,
+    "product_id": 41,
+    "attribute_id": 5,
+    "value": "Đặc trưng «Opera cake 8 lát hộp»"
+  },
+  {
+    "id": 1248,
+    "product_id": 41,
+    "attribute_id": 8,
+    "value": "Hạn dùng: tham khảo nhãn đi kèm"
+  },
+  {
+    "id": 1249,
+    "product_id": 41,
+    "attribute_id": 9,
+    "value": "Bảo quản theo loại sản phẩm (mát / khô / đông)"
+  },
+  {
+    "id": 1250,
+    "product_id": 42,
+    "attribute_id": 1,
+    "value": "Quy cách theo đơn & nhãn"
+  },
+  {
+    "id": 1251,
+    "product_id": 42,
+    "attribute_id": 2,
+    "value": "Kích thước / dung tích theo SKU"
+  },
+  {
+    "id": 1252,
+    "product_id": 42,
+    "attribute_id": 3,
+    "value": "Khẩu phần gợi ý"
+  },
+  {
+    "id": 1253,
+    "product_id": 42,
+    "attribute_id": 5,
+    "value": "Đặc trưng «Mousse chanh dây cá nhân»"
+  },
+  {
+    "id": 1254,
+    "product_id": 42,
+    "attribute_id": 8,
+    "value": "Hạn dùng: tham khảo nhãn đi kèm"
+  },
+  {
+    "id": 1255,
+    "product_id": 42,
+    "attribute_id": 9,
+    "value": "Bảo quản theo loại sản phẩm (mát / khô / đông)"
+  },
+  {
+    "id": 1256,
+    "product_id": 43,
+    "attribute_id": 1,
+    "value": "Quy cách theo đơn & nhãn"
+  },
+  {
+    "id": 1257,
+    "product_id": 43,
+    "attribute_id": 2,
+    "value": "Kích thước / dung tích theo SKU"
+  },
+  {
+    "id": 1258,
+    "product_id": 43,
+    "attribute_id": 3,
+    "value": "Khẩu phần gợi ý"
+  },
+  {
+    "id": 1259,
+    "product_id": 43,
+    "attribute_id": 5,
+    "value": "Đặc trưng «Éclair socola hộp 3»"
+  },
+  {
+    "id": 1260,
+    "product_id": 43,
+    "attribute_id": 8,
+    "value": "Hạn dùng: tham khảo nhãn đi kèm"
+  },
+  {
+    "id": 1261,
+    "product_id": 43,
+    "attribute_id": 9,
+    "value": "Bảo quản theo loại sản phẩm (mát / khô / đông)"
+  },
+  {
+    "id": 1262,
+    "product_id": 44,
+    "attribute_id": 1,
+    "value": "Quy cách theo đơn & nhãn"
+  },
+  {
+    "id": 1263,
+    "product_id": 44,
+    "attribute_id": 2,
+    "value": "Kích thước / dung tích theo SKU"
+  },
+  {
+    "id": 1264,
+    "product_id": 44,
+    "attribute_id": 3,
+    "value": "Khẩu phần gợi ý"
+  },
+  {
+    "id": 1265,
+    "product_id": 44,
+    "attribute_id": 5,
+    "value": "Đặc trưng «Choux kem vani hộp 5»"
+  },
+  {
+    "id": 1266,
+    "product_id": 44,
+    "attribute_id": 8,
+    "value": "Hạn dùng: tham khảo nhãn đi kèm"
+  },
+  {
+    "id": 1267,
+    "product_id": 44,
+    "attribute_id": 9,
+    "value": "Bảo quản theo loại sản phẩm (mát / khô / đông)"
+  },
+  {
+    "id": 1268,
+    "product_id": 45,
+    "attribute_id": 1,
+    "value": "Quy cách theo đơn & nhãn"
+  },
+  {
+    "id": 1269,
+    "product_id": 45,
+    "attribute_id": 2,
+    "value": "Kích thước / dung tích theo SKU"
+  },
+  {
+    "id": 1270,
+    "product_id": 45,
+    "attribute_id": 3,
+    "value": "Khẩu phần gợi ý"
+  },
+  {
+    "id": 1271,
+    "product_id": 45,
+    "attribute_id": 5,
+    "value": "Đặc trưng «Tiramisu matcha cốc»"
+  },
+  {
+    "id": 1272,
+    "product_id": 45,
+    "attribute_id": 8,
+    "value": "Hạn dùng: tham khảo nhãn đi kèm"
+  },
+  {
+    "id": 1273,
+    "product_id": 45,
+    "attribute_id": 9,
+    "value": "Bảo quản theo loại sản phẩm (mát / khô / đông)"
+  },
+  {
+    "id": 1274,
+    "product_id": 46,
+    "attribute_id": 1,
+    "value": "Quy cách theo đơn & nhãn"
+  },
+  {
+    "id": 1275,
+    "product_id": 46,
+    "attribute_id": 2,
+    "value": "Kích thước / dung tích theo SKU"
+  },
+  {
+    "id": 1276,
+    "product_id": 46,
+    "attribute_id": 3,
+    "value": "Khẩu phần gợi ý"
+  },
+  {
+    "id": 1277,
+    "product_id": 46,
+    "attribute_id": 5,
+    "value": "Đặc trưng «Flan caramel Nhật lố 6»"
+  },
+  {
+    "id": 1278,
+    "product_id": 46,
+    "attribute_id": 8,
+    "value": "Hạn dùng: tham khảo nhãn đi kèm"
+  },
+  {
+    "id": 1279,
+    "product_id": 46,
+    "attribute_id": 9,
+    "value": "Bảo quản theo loại sản phẩm (mát / khô / đông)"
+  },
+  {
+    "id": 1280,
+    "product_id": 47,
+    "attribute_id": 1,
+    "value": "Quy cách theo đơn & nhãn"
+  },
+  {
+    "id": 1281,
+    "product_id": 47,
+    "attribute_id": 2,
+    "value": "Kích thước / dung tích theo SKU"
+  },
+  {
+    "id": 1282,
+    "product_id": 47,
+    "attribute_id": 3,
+    "value": "Khẩu phần gợi ý"
+  },
+  {
+    "id": 1283,
+    "product_id": 47,
+    "attribute_id": 5,
+    "value": "Đặc trưng «Yaourt sữa chua uống chanh»"
+  },
+  {
+    "id": 1284,
+    "product_id": 47,
+    "attribute_id": 8,
+    "value": "Hạn dùng: tham khảo nhãn đi kèm"
+  },
+  {
+    "id": 1285,
+    "product_id": 47,
+    "attribute_id": 9,
+    "value": "Bảo quản theo loại sản phẩm (mát / khô / đông)"
+  },
+  {
+    "id": 1286,
+    "product_id": 48,
+    "attribute_id": 1,
+    "value": "Theo bao bì từng lô"
+  },
+  {
+    "id": 1287,
+    "product_id": 48,
+    "attribute_id": 5,
+    "value": "Profile vị «Bánh quy Earl Grey hộp»"
+  },
+  {
+    "id": 1288,
+    "product_id": 48,
+    "attribute_id": 8,
+    "value": "Xem NSX/HSD trên nhãn"
+  },
+  {
+    "id": 1289,
+    "product_id": 48,
+    "attribute_id": 9,
+    "value": "Khô ráo, tránh ẩm"
+  },
+  {
+    "id": 1290,
+    "product_id": 48,
+    "attribute_id": 10,
+    "value": "Hộp / túi seal"
+  },
+  {
+    "id": 1291,
+    "product_id": 48,
+    "attribute_id": 7,
+    "value": "Bột mì, bơ, trứng (tuỳ lô)"
+  },
+  {
+    "id": 1292,
+    "product_id": 49,
+    "attribute_id": 1,
+    "value": "Theo bao bì từng lô"
+  },
+  {
+    "id": 1293,
+    "product_id": 49,
+    "attribute_id": 5,
+    "value": "Profile vị «Bánh quy bơ dừa nướng»"
+  },
+  {
+    "id": 1294,
+    "product_id": 49,
+    "attribute_id": 8,
+    "value": "Xem NSX/HSD trên nhãn"
+  },
+  {
+    "id": 1295,
+    "product_id": 49,
+    "attribute_id": 9,
+    "value": "Khô ráo, tránh ẩm"
+  },
+  {
+    "id": 1296,
+    "product_id": 49,
+    "attribute_id": 10,
+    "value": "Hộp / túi seal"
+  },
+  {
+    "id": 1297,
+    "product_id": 49,
+    "attribute_id": 7,
+    "value": "Bột mì, bơ, trứng (tuỳ lô)"
+  },
+  {
+    "id": 1298,
+    "product_id": 50,
+    "attribute_id": 1,
+    "value": "Theo bao bì từng lô"
+  },
+  {
+    "id": 1299,
+    "product_id": 50,
+    "attribute_id": 5,
+    "value": "Profile vị «Hỗn hợp khô hạt mix 350g»"
+  },
+  {
+    "id": 1300,
+    "product_id": 50,
+    "attribute_id": 8,
+    "value": "Xem NSX/HSD trên nhãn"
+  },
+  {
+    "id": 1301,
+    "product_id": 50,
+    "attribute_id": 9,
+    "value": "Khô ráo, tránh ẩm"
+  },
+  {
+    "id": 1302,
+    "product_id": 50,
+    "attribute_id": 10,
+    "value": "Hộp / túi seal"
+  },
+  {
+    "id": 1303,
+    "product_id": 50,
+    "attribute_id": 7,
+    "value": "Bột mì, bơ, trứng (tuỳ lô)"
+  },
+  {
+    "id": 1304,
+    "product_id": 51,
+    "attribute_id": 1,
+    "value": "Theo bao bì từng lô"
+  },
+  {
+    "id": 1305,
+    "product_id": 51,
+    "attribute_id": 5,
+    "value": "Profile vị «Cookie red velvet hộp 12»"
+  },
+  {
+    "id": 1306,
+    "product_id": 51,
+    "attribute_id": 8,
+    "value": "Xem NSX/HSD trên nhãn"
+  },
+  {
+    "id": 1307,
+    "product_id": 51,
+    "attribute_id": 9,
+    "value": "Khô ráo, tránh ẩm"
+  },
+  {
+    "id": 1308,
+    "product_id": 51,
+    "attribute_id": 10,
+    "value": "Hộp / túi seal"
+  },
+  {
+    "id": 1309,
+    "product_id": 51,
+    "attribute_id": 7,
+    "value": "Bột mì, bơ, trứng (tuỳ lô)"
+  },
+  {
+    "id": 1310,
+    "product_id": 52,
+    "attribute_id": 1,
+    "value": "Theo hộp đặt"
+  },
+  {
+    "id": 1311,
+    "product_id": 52,
+    "attribute_id": 8,
+    "value": "Theo in trên bao bì sau mở"
+  },
+  {
+    "id": 1312,
+    "product_id": 52,
+    "attribute_id": 9,
+    "value": "-18°C / 0–4°C tùy loại; tránh xả đông nhiều lần"
+  },
+  {
+    "id": 1313,
+    "product_id": 52,
+    "attribute_id": 10,
+    "value": "Túi giữ lạnh khi giao"
+  },
+  {
+    "id": 1314,
+    "product_id": 52,
+    "attribute_id": 5,
+    "value": "Hương vị «Kem ly vani hộp 6»"
+  },
+  {
+    "id": 1315,
+    "product_id": 52,
+    "attribute_id": 3,
+    "value": "Khẩu phần gợi ý trên nhãn"
+  },
+  {
+    "id": 1316,
+    "product_id": 53,
+    "attribute_id": 1,
+    "value": "Theo hộp đặt"
+  },
+  {
+    "id": 1317,
+    "product_id": 53,
+    "attribute_id": 8,
+    "value": "Theo in trên bao bì sau mở"
+  },
+  {
+    "id": 1318,
+    "product_id": 53,
+    "attribute_id": 9,
+    "value": "-18°C / 0–4°C tùy loại; tránh xả đông nhiều lần"
+  },
+  {
+    "id": 1319,
+    "product_id": 53,
+    "attribute_id": 10,
+    "value": "Túi giữ lạnh khi giao"
+  },
+  {
+    "id": 1320,
+    "product_id": 53,
+    "attribute_id": 5,
+    "value": "Hương vị «Kem nhãn hương dừa hộp 8»"
+  },
+  {
+    "id": 1321,
+    "product_id": 53,
+    "attribute_id": 3,
+    "value": "Khẩu phần gợi ý trên nhãn"
+  },
+  {
+    "id": 1322,
+    "product_id": 54,
+    "attribute_id": 1,
+    "value": "Theo hộp đặt"
+  },
+  {
+    "id": 1323,
+    "product_id": 54,
+    "attribute_id": 8,
+    "value": "Theo in trên bao bì sau mở"
+  },
+  {
+    "id": 1324,
+    "product_id": 54,
+    "attribute_id": 9,
+    "value": "-18°C / 0–4°C tùy loại; tránh xả đông nhiều lần"
+  },
+  {
+    "id": 1325,
+    "product_id": 54,
+    "attribute_id": 10,
+    "value": "Túi giữ lạnh khi giao"
+  },
+  {
+    "id": 1326,
+    "product_id": 54,
+    "attribute_id": 5,
+    "value": "Hương vị «Xôi kem dừa dẻo ly»"
+  },
+  {
+    "id": 1327,
+    "product_id": 54,
+    "attribute_id": 3,
+    "value": "Khẩu phần gợi ý trên nhãn"
+  },
+  {
+    "id": 1328,
+    "product_id": 55,
+    "attribute_id": 1,
+    "value": "Quy cách theo đơn & nhãn"
+  },
+  {
+    "id": 1329,
+    "product_id": 55,
+    "attribute_id": 2,
+    "value": "Kích thước / dung tích theo SKU"
+  },
+  {
+    "id": 1330,
+    "product_id": 55,
+    "attribute_id": 3,
+    "value": "Khẩu phần gợi ý"
+  },
+  {
+    "id": 1331,
+    "product_id": 55,
+    "attribute_id": 5,
+    "value": "Đặc trưng «Gói in backdrop sinh nhật»"
+  },
+  {
+    "id": 1332,
+    "product_id": 55,
+    "attribute_id": 8,
+    "value": "Hạn dùng: tham khảo nhãn đi kèm"
+  },
+  {
+    "id": 1333,
+    "product_id": 55,
+    "attribute_id": 9,
+    "value": "Bảo quản theo loại sản phẩm (mát / khô / đông)"
+  },
+  {
+    "id": 1334,
+    "product_id": 56,
+    "attribute_id": 1,
+    "value": "Quy cách theo đơn & nhãn"
+  },
+  {
+    "id": 1335,
+    "product_id": 56,
+    "attribute_id": 2,
+    "value": "Kích thước / dung tích theo SKU"
+  },
+  {
+    "id": 1336,
+    "product_id": 56,
+    "attribute_id": 3,
+    "value": "Khẩu phần gợi ý"
+  },
+  {
+    "id": 1337,
+    "product_id": 56,
+    "attribute_id": 5,
+    "value": "Đặc trưng «Thuê stand trang trí 1 ngày»"
+  },
+  {
+    "id": 1338,
+    "product_id": 56,
+    "attribute_id": 8,
+    "value": "Hạn dùng: tham khảo nhãn đi kèm"
+  },
+  {
+    "id": 1339,
+    "product_id": 56,
+    "attribute_id": 9,
+    "value": "Bảo quản theo loại sản phẩm (mát / khô / đông)"
+  },
+  {
+    "id": 1340,
+    "product_id": 57,
+    "attribute_id": 1,
+    "value": "Quy cách theo đơn & nhãn"
+  },
+  {
+    "id": 1341,
+    "product_id": 57,
+    "attribute_id": 2,
+    "value": "Kích thước / dung tích theo SKU"
+  },
+  {
+    "id": 1342,
+    "product_id": 57,
+    "attribute_id": 3,
+    "value": "Khẩu phần gợi ý"
+  },
+  {
+    "id": 1343,
+    "product_id": 57,
+    "attribute_id": 5,
+    "value": "Đặc trưng «Topper acrylic tên tuổi»"
+  },
+  {
+    "id": 1344,
+    "product_id": 57,
+    "attribute_id": 8,
+    "value": "Hạn dùng: tham khảo nhãn đi kèm"
+  },
+  {
+    "id": 1345,
+    "product_id": 57,
+    "attribute_id": 9,
+    "value": "Bảo quản theo loại sản phẩm (mát / khô / đông)"
+  },
+  {
+    "id": 1346,
+    "product_id": 58,
+    "attribute_id": 1,
+    "value": "Quy cách theo đơn & nhãn"
+  },
+  {
+    "id": 1347,
+    "product_id": 58,
+    "attribute_id": 2,
+    "value": "Kích thước / dung tích theo SKU"
+  },
+  {
+    "id": 1348,
+    "product_id": 58,
+    "attribute_id": 3,
+    "value": "Khẩu phần gợi ý"
+  },
+  {
+    "id": 1349,
+    "product_id": 58,
+    "attribute_id": 5,
+    "value": "Đặc trưng «Dĩa giấy eco họa tiết 10 cái»"
+  },
+  {
+    "id": 1350,
+    "product_id": 58,
+    "attribute_id": 8,
+    "value": "Hạn dùng: tham khảo nhãn đi kèm"
+  },
+  {
+    "id": 1351,
+    "product_id": 58,
+    "attribute_id": 9,
+    "value": "Bảo quản theo loại sản phẩm (mát / khô / đông)"
+  },
+  {
+    "id": 1352,
+    "product_id": 59,
+    "attribute_id": 1,
+    "value": "Quy cách theo đơn & nhãn"
+  },
+  {
+    "id": 1353,
+    "product_id": 59,
+    "attribute_id": 2,
+    "value": "Kích thước / dung tích theo SKU"
+  },
+  {
+    "id": 1354,
+    "product_id": 59,
+    "attribute_id": 3,
+    "value": "Khẩu phần gợi ý"
+  },
+  {
+    "id": 1355,
+    "product_id": 59,
+    "attribute_id": 5,
+    "value": "Đặc trưng «Bánh Macchi phô mai nướng»"
+  },
+  {
+    "id": 1356,
+    "product_id": 59,
+    "attribute_id": 8,
+    "value": "Hạn dùng: tham khảo nhãn đi kèm"
+  },
+  {
+    "id": 1357,
+    "product_id": 59,
+    "attribute_id": 9,
+    "value": "Bảo quản theo loại sản phẩm (mát / khô / đông)"
+  },
+  {
+    "id": 1358,
+    "product_id": 60,
+    "attribute_id": 1,
+    "value": "Quy cách theo đơn & nhãn"
+  },
+  {
+    "id": 1359,
+    "product_id": 60,
+    "attribute_id": 2,
+    "value": "Kích thước / dung tích theo SKU"
+  },
+  {
+    "id": 1360,
+    "product_id": 60,
+    "attribute_id": 3,
+    "value": "Khẩu phần gợi ý"
+  },
+  {
+    "id": 1361,
+    "product_id": 60,
+    "attribute_id": 5,
+    "value": "Đặc trưng «Macchi roll trà xanh»"
+  },
+  {
+    "id": 1362,
+    "product_id": 60,
+    "attribute_id": 8,
+    "value": "Hạn dùng: tham khảo nhãn đi kèm"
+  },
+  {
+    "id": 1363,
+    "product_id": 60,
+    "attribute_id": 9,
+    "value": "Bảo quản theo loại sản phẩm (mát / khô / đông)"
+  },
+  {
+    "id": 1364,
+    "product_id": 61,
+    "attribute_id": 2,
+    "value": "Cỡ ly / ml — chọn trên biến thể"
+  },
+  {
+    "id": 1365,
+    "product_id": 61,
+    "attribute_id": 5,
+    "value": "Pha tại quầy — thành phần ghi trên ly"
+  },
+  {
+    "id": 1366,
+    "product_id": 61,
+    "attribute_id": 3,
+    "value": "01 phần / người"
+  },
+  {
+    "id": 1367,
+    "product_id": 61,
+    "attribute_id": 8,
+    "value": "Dùng trong ngày; ngon nhất khi mới pha"
+  },
+  {
+    "id": 1368,
+    "product_id": 61,
+    "attribute_id": 9,
+    "value": "Giữ mát; lắc đều nếu có topping"
+  },
+  {
+    "id": 1369,
+    "product_id": 61,
+    "attribute_id": 10,
+    "value": "Ly có nắp chống tràn"
+  },
+  {
+    "id": 1370,
+    "product_id": 62,
+    "attribute_id": 2,
+    "value": "Cỡ ly / ml — chọn trên biến thể"
+  },
+  {
+    "id": 1371,
+    "product_id": 62,
+    "attribute_id": 5,
+    "value": "Pha tại quầy — thành phần ghi trên ly"
+  },
+  {
+    "id": 1372,
+    "product_id": 62,
+    "attribute_id": 3,
+    "value": "01 phần / người"
+  },
+  {
+    "id": 1373,
+    "product_id": 62,
+    "attribute_id": 8,
+    "value": "Dùng trong ngày; ngon nhất khi mới pha"
+  },
+  {
+    "id": 1374,
+    "product_id": 62,
+    "attribute_id": 9,
+    "value": "Giữ mát; lắc đều nếu có topping"
+  },
+  {
+    "id": 1375,
+    "product_id": 62,
+    "attribute_id": 10,
+    "value": "Ly có nắp chống tràn"
+  },
+  {
+    "id": 1376,
+    "product_id": 63,
+    "attribute_id": 2,
+    "value": "Cỡ ly / ml — chọn trên biến thể"
+  },
+  {
+    "id": 1377,
+    "product_id": 63,
+    "attribute_id": 5,
+    "value": "Pha tại quầy — thành phần ghi trên ly"
+  },
+  {
+    "id": 1378,
+    "product_id": 63,
+    "attribute_id": 3,
+    "value": "01 phần / người"
+  },
+  {
+    "id": 1379,
+    "product_id": 63,
+    "attribute_id": 8,
+    "value": "Dùng trong ngày; ngon nhất khi mới pha"
+  },
+  {
+    "id": 1380,
+    "product_id": 63,
+    "attribute_id": 9,
+    "value": "Giữ mát; lắc đều nếu có topping"
+  },
+  {
+    "id": 1381,
+    "product_id": 63,
+    "attribute_id": 10,
+    "value": "Ly có nắp chống tràn"
+  },
+  {
+    "id": 1382,
+    "product_id": 64,
+    "attribute_id": 2,
+    "value": "Cỡ ly / ml — chọn trên biến thể"
+  },
+  {
+    "id": 1383,
+    "product_id": 64,
+    "attribute_id": 5,
+    "value": "Pha tại quầy — thành phần ghi trên ly"
+  },
+  {
+    "id": 1384,
+    "product_id": 64,
+    "attribute_id": 3,
+    "value": "01 phần / người"
+  },
+  {
+    "id": 1385,
+    "product_id": 64,
+    "attribute_id": 8,
+    "value": "Dùng trong ngày; ngon nhất khi mới pha"
+  },
+  {
+    "id": 1386,
+    "product_id": 64,
+    "attribute_id": 9,
+    "value": "Giữ mát; lắc đều nếu có topping"
+  },
+  {
+    "id": 1387,
+    "product_id": 64,
+    "attribute_id": 10,
+    "value": "Ly có nắp chống tràn"
+  },
+  {
+    "id": 1388,
+    "product_id": 65,
+    "attribute_id": 2,
+    "value": "Cỡ ly / ml — chọn trên biến thể"
+  },
+  {
+    "id": 1389,
+    "product_id": 65,
+    "attribute_id": 5,
+    "value": "Pha tại quầy — thành phần ghi trên ly"
+  },
+  {
+    "id": 1390,
+    "product_id": 65,
+    "attribute_id": 3,
+    "value": "01 phần / người"
+  },
+  {
+    "id": 1391,
+    "product_id": 65,
+    "attribute_id": 8,
+    "value": "Dùng trong ngày; ngon nhất khi mới pha"
+  },
+  {
+    "id": 1392,
+    "product_id": 65,
+    "attribute_id": 9,
+    "value": "Giữ mát; lắc đều nếu có topping"
+  },
+  {
+    "id": 1393,
+    "product_id": 65,
+    "attribute_id": 10,
+    "value": "Ly có nắp chống tràn"
+  },
+  {
+    "id": 1394,
+    "product_id": 66,
+    "attribute_id": 2,
+    "value": "Cỡ ly / ml — chọn trên biến thể"
+  },
+  {
+    "id": 1395,
+    "product_id": 66,
+    "attribute_id": 5,
+    "value": "Pha tại quầy — thành phần ghi trên ly"
+  },
+  {
+    "id": 1396,
+    "product_id": 66,
+    "attribute_id": 3,
+    "value": "01 phần / người"
+  },
+  {
+    "id": 1397,
+    "product_id": 66,
+    "attribute_id": 8,
+    "value": "Dùng trong ngày; ngon nhất khi mới pha"
+  },
+  {
+    "id": 1398,
+    "product_id": 66,
+    "attribute_id": 9,
+    "value": "Giữ mát; lắc đều nếu có topping"
+  },
+  {
+    "id": 1399,
+    "product_id": 66,
+    "attribute_id": 10,
+    "value": "Ly có nắp chống tràn"
+  },
+  {
+    "id": 1400,
+    "product_id": 67,
+    "attribute_id": 2,
+    "value": "Cỡ ly / ml — chọn trên biến thể"
+  },
+  {
+    "id": 1401,
+    "product_id": 67,
+    "attribute_id": 5,
+    "value": "Pha tại quầy — thành phần ghi trên ly"
+  },
+  {
+    "id": 1402,
+    "product_id": 67,
+    "attribute_id": 3,
+    "value": "01 phần / người"
+  },
+  {
+    "id": 1403,
+    "product_id": 67,
+    "attribute_id": 8,
+    "value": "Dùng trong ngày; ngon nhất khi mới pha"
+  },
+  {
+    "id": 1404,
+    "product_id": 67,
+    "attribute_id": 9,
+    "value": "Giữ mát; lắc đều nếu có topping"
+  },
+  {
+    "id": 1405,
+    "product_id": 67,
+    "attribute_id": 10,
+    "value": "Ly có nắp chống tràn"
+  },
+  {
+    "id": 1406,
+    "product_id": 68,
+    "attribute_id": 2,
+    "value": "Cỡ ly / ml — chọn trên biến thể"
+  },
+  {
+    "id": 1407,
+    "product_id": 68,
+    "attribute_id": 5,
+    "value": "Pha tại quầy — thành phần ghi trên ly"
+  },
+  {
+    "id": 1408,
+    "product_id": 68,
+    "attribute_id": 3,
+    "value": "01 phần / người"
+  },
+  {
+    "id": 1409,
+    "product_id": 68,
+    "attribute_id": 8,
+    "value": "Dùng trong ngày; ngon nhất khi mới pha"
+  },
+  {
+    "id": 1410,
+    "product_id": 68,
+    "attribute_id": 9,
+    "value": "Giữ mát; lắc đều nếu có topping"
+  },
+  {
+    "id": 1411,
+    "product_id": 68,
+    "attribute_id": 10,
+    "value": "Ly có nắp chống tràn"
+  },
+  {
+    "id": 1412,
+    "product_id": 69,
+    "attribute_id": 2,
+    "value": "Cỡ ly / ml — chọn trên biến thể"
+  },
+  {
+    "id": 1413,
+    "product_id": 69,
+    "attribute_id": 5,
+    "value": "Pha tại quầy — thành phần ghi trên ly"
+  },
+  {
+    "id": 1414,
+    "product_id": 69,
+    "attribute_id": 3,
+    "value": "01 phần / người"
+  },
+  {
+    "id": 1415,
+    "product_id": 69,
+    "attribute_id": 8,
+    "value": "Dùng trong ngày; ngon nhất khi mới pha"
+  },
+  {
+    "id": 1416,
+    "product_id": 69,
+    "attribute_id": 9,
+    "value": "Giữ mát; lắc đều nếu có topping"
+  },
+  {
+    "id": 1417,
+    "product_id": 69,
+    "attribute_id": 10,
+    "value": "Ly có nắp chống tràn"
+  },
+  {
+    "id": 1418,
+    "product_id": 70,
+    "attribute_id": 2,
+    "value": "Cỡ ly / ml — chọn trên biến thể"
+  },
+  {
+    "id": 1419,
+    "product_id": 70,
+    "attribute_id": 5,
+    "value": "Pha tại quầy — thành phần ghi trên ly"
+  },
+  {
+    "id": 1420,
+    "product_id": 70,
+    "attribute_id": 3,
+    "value": "01 phần / người"
+  },
+  {
+    "id": 1421,
+    "product_id": 70,
+    "attribute_id": 8,
+    "value": "Dùng trong ngày; ngon nhất khi mới pha"
+  },
+  {
+    "id": 1422,
+    "product_id": 70,
+    "attribute_id": 9,
+    "value": "Giữ mát; lắc đều nếu có topping"
+  },
+  {
+    "id": 1423,
+    "product_id": 70,
+    "attribute_id": 10,
+    "value": "Ly có nắp chống tràn"
+  },
+  {
+    "id": 1424,
+    "product_id": 71,
+    "attribute_id": 1,
+    "value": "Quy cách theo đơn & nhãn"
+  },
+  {
+    "id": 1425,
+    "product_id": 71,
+    "attribute_id": 2,
+    "value": "Kích thước / dung tích theo SKU"
+  },
+  {
+    "id": 1426,
+    "product_id": 71,
+    "attribute_id": 3,
+    "value": "Khẩu phần gợi ý"
+  },
+  {
+    "id": 1427,
+    "product_id": 71,
+    "attribute_id": 5,
+    "value": "Đặc trưng «Bánh su kem nhân trà xanh hộp 6»"
+  },
+  {
+    "id": 1428,
+    "product_id": 71,
+    "attribute_id": 8,
+    "value": "Hạn dùng: tham khảo nhãn đi kèm"
+  },
+  {
+    "id": 1429,
+    "product_id": 71,
+    "attribute_id": 9,
+    "value": "Bảo quản theo loại sản phẩm (mát / khô / đông)"
+  },
+  {
+    "id": 1430,
+    "product_id": 72,
+    "attribute_id": 1,
+    "value": "Quy cách theo đơn & nhãn"
+  },
+  {
+    "id": 1431,
+    "product_id": 72,
+    "attribute_id": 2,
+    "value": "Kích thước / dung tích theo SKU"
+  },
+  {
+    "id": 1432,
+    "product_id": 72,
+    "attribute_id": 3,
+    "value": "Khẩu phần gợi ý"
+  },
+  {
+    "id": 1433,
+    "product_id": 72,
+    "attribute_id": 5,
+    "value": "Đặc trưng «Donut phủ kem hộp 4»"
+  },
+  {
+    "id": 1434,
+    "product_id": 72,
+    "attribute_id": 8,
+    "value": "Hạn dùng: tham khảo nhãn đi kèm"
+  },
+  {
+    "id": 1435,
+    "product_id": 72,
+    "attribute_id": 9,
+    "value": "Bảo quản theo loại sản phẩm (mát / khô / đông)"
+  },
+  {
+    "id": 1436,
+    "product_id": 73,
+    "attribute_id": 1,
+    "value": "Quy cách theo đơn & nhãn"
+  },
+  {
+    "id": 1437,
+    "product_id": 73,
+    "attribute_id": 2,
+    "value": "Kích thước / dung tích theo SKU"
+  },
+  {
+    "id": 1438,
+    "product_id": 73,
+    "attribute_id": 3,
+    "value": "Khẩu phần gợi ý"
+  },
+  {
+    "id": 1439,
+    "product_id": 73,
+    "attribute_id": 5,
+    "value": "Đặc trưng «Croissant bơ Tứ Xuyên»"
+  },
+  {
+    "id": 1440,
+    "product_id": 73,
+    "attribute_id": 8,
+    "value": "Hạn dùng: tham khảo nhãn đi kèm"
+  },
+  {
+    "id": 1441,
+    "product_id": 73,
+    "attribute_id": 9,
+    "value": "Bảo quản theo loại sản phẩm (mát / khô / đông)"
+  },
+  {
+    "id": 1442,
+    "product_id": 74,
+    "attribute_id": 1,
+    "value": "Quy cách theo đơn & nhãn"
+  },
+  {
+    "id": 1443,
+    "product_id": 74,
+    "attribute_id": 2,
+    "value": "Kích thước / dung tích theo SKU"
+  },
+  {
+    "id": 1444,
+    "product_id": 74,
+    "attribute_id": 3,
+    "value": "Khẩu phần gợi ý"
+  },
+  {
+    "id": 1445,
+    "product_id": 74,
+    "attribute_id": 5,
+    "value": "Đặc trưng «Bánh mì hoa cúc mini hộp 8»"
+  },
+  {
+    "id": 1446,
+    "product_id": 74,
+    "attribute_id": 8,
+    "value": "Hạn dùng: tham khảo nhãn đi kèm"
+  },
+  {
+    "id": 1447,
+    "product_id": 74,
+    "attribute_id": 9,
+    "value": "Bảo quản theo loại sản phẩm (mát / khô / đông)"
+  },
+  {
+    "id": 1448,
+    "product_id": 75,
+    "attribute_id": 1,
+    "value": "Quy cách theo đơn & nhãn"
+  },
+  {
+    "id": 1449,
+    "product_id": 75,
+    "attribute_id": 2,
+    "value": "Kích thước / dung tích theo SKU"
+  },
+  {
+    "id": 1450,
+    "product_id": 75,
+    "attribute_id": 3,
+    "value": "Khẩu phần gợi ý"
+  },
+  {
+    "id": 1451,
+    "product_id": 75,
+    "attribute_id": 5,
+    "value": "Đặc trưng «Xôi gà xé phay hộp»"
+  },
+  {
+    "id": 1452,
+    "product_id": 75,
+    "attribute_id": 8,
+    "value": "Hạn dùng: tham khảo nhãn đi kèm"
+  },
+  {
+    "id": 1453,
+    "product_id": 75,
+    "attribute_id": 9,
+    "value": "Bảo quản theo loại sản phẩm (mát / khô / đông)"
+  },
+  {
+    "id": 1454,
+    "product_id": 76,
+    "attribute_id": 1,
+    "value": "Theo hộp đặt"
+  },
+  {
+    "id": 1455,
+    "product_id": 76,
+    "attribute_id": 8,
+    "value": "Theo in trên bao bì sau mở"
+  },
+  {
+    "id": 1456,
+    "product_id": 76,
+    "attribute_id": 9,
+    "value": "-18°C / 0–4°C tùy loại; tránh xả đông nhiều lần"
+  },
+  {
+    "id": 1457,
+    "product_id": 76,
+    "attribute_id": 10,
+    "value": "Túi giữ lạnh khi giao"
+  },
+  {
+    "id": 1458,
+    "product_id": 76,
+    "attribute_id": 5,
+    "value": "Hương vị «Set bánh bao xá xíu 6»"
+  },
+  {
+    "id": 1459,
+    "product_id": 76,
+    "attribute_id": 3,
+    "value": "Khẩu phần gợi ý trên nhãn"
+  },
+  {
+    "id": 1460,
+    "product_id": 77,
+    "attribute_id": 1,
+    "value": "Theo hộp đặt"
+  },
+  {
+    "id": 1461,
+    "product_id": 77,
+    "attribute_id": 8,
+    "value": "Theo in trên bao bì sau mở"
+  },
+  {
+    "id": 1462,
+    "product_id": 77,
+    "attribute_id": 9,
+    "value": "-18°C / 0–4°C tùy loại; tránh xả đông nhiều lần"
+  },
+  {
+    "id": 1463,
+    "product_id": 77,
+    "attribute_id": 10,
+    "value": "Túi giữ lạnh khi giao"
+  },
+  {
+    "id": 1464,
+    "product_id": 77,
+    "attribute_id": 5,
+    "value": "Hương vị «Bánh bao kim chi thịt hộp 3»"
+  },
+  {
+    "id": 1465,
+    "product_id": 77,
+    "attribute_id": 3,
+    "value": "Khẩu phần gợi ý trên nhãn"
+  },
+  {
+    "id": 1466,
+    "product_id": 78,
+    "attribute_id": 1,
+    "value": "Theo hộp đặt"
+  },
+  {
+    "id": 1467,
+    "product_id": 78,
+    "attribute_id": 8,
+    "value": "Theo in trên bao bì sau mở"
+  },
+  {
+    "id": 1468,
+    "product_id": 78,
+    "attribute_id": 9,
+    "value": "-18°C / 0–4°C tùy loại; tránh xả đông nhiều lần"
+  },
+  {
+    "id": 1469,
+    "product_id": 78,
+    "attribute_id": 10,
+    "value": "Túi giữ lạnh khi giao"
+  },
+  {
+    "id": 1470,
+    "product_id": 78,
+    "attribute_id": 5,
+    "value": "Hương vị «Pizza hải sản size S»"
+  },
+  {
+    "id": 1471,
+    "product_id": 78,
+    "attribute_id": 3,
+    "value": "Khẩu phần gợi ý trên nhãn"
+  },
+  {
+    "id": 1472,
+    "product_id": 79,
+    "attribute_id": 1,
+    "value": "Theo hộp đặt"
+  },
+  {
+    "id": 1473,
+    "product_id": 79,
+    "attribute_id": 8,
+    "value": "Theo in trên bao bì sau mở"
+  },
+  {
+    "id": 1474,
+    "product_id": 79,
+    "attribute_id": 9,
+    "value": "-18°C / 0–4°C tùy loại; tránh xả đông nhiều lần"
+  },
+  {
+    "id": 1475,
+    "product_id": 79,
+    "attribute_id": 10,
+    "value": "Túi giữ lạnh khi giao"
+  },
+  {
+    "id": 1476,
+    "product_id": 79,
+    "attribute_id": 5,
+    "value": "Hương vị «Pizza margherita cổ điển»"
+  },
+  {
+    "id": 1477,
+    "product_id": 79,
+    "attribute_id": 3,
+    "value": "Khẩu phần gợi ý trên nhãn"
+  },
+  {
+    "id": 1478,
+    "product_id": 80,
+    "attribute_id": 1,
+    "value": "Quy cách theo đơn & nhãn"
+  },
+  {
+    "id": 1479,
+    "product_id": 80,
+    "attribute_id": 2,
+    "value": "Kích thước / dung tích theo SKU"
+  },
+  {
+    "id": 1480,
+    "product_id": 80,
+    "attribute_id": 3,
+    "value": "Khẩu phần gợi ý"
+  },
+  {
+    "id": 1481,
+    "product_id": 80,
+    "attribute_id": 5,
+    "value": "Đặc trưng «Set min bánh lễ tốt nghiệp»"
+  },
+  {
+    "id": 1482,
+    "product_id": 80,
+    "attribute_id": 8,
+    "value": "Hạn dùng: tham khảo nhãn đi kèm"
+  },
+  {
+    "id": 1483,
+    "product_id": 80,
+    "attribute_id": 9,
+    "value": "Bảo quản theo loại sản phẩm (mát / khô / đông)"
+  },
+  {
+    "id": 1484,
+    "product_id": 81,
+    "attribute_id": 1,
+    "value": "Quy cách theo đơn & nhãn"
+  },
+  {
+    "id": 1485,
+    "product_id": 81,
+    "attribute_id": 2,
+    "value": "Kích thước / dung tích theo SKU"
+  },
+  {
+    "id": 1486,
+    "product_id": 81,
+    "attribute_id": 3,
+    "value": "Khẩu phần gợi ý"
+  },
+  {
+    "id": 1487,
+    "product_id": 81,
+    "attribute_id": 5,
+    "value": "Đặc trưng «Bánh bông lan chữ Happy School»"
+  },
+  {
+    "id": 1488,
+    "product_id": 81,
+    "attribute_id": 8,
+    "value": "Hạn dùng: tham khảo nhãn đi kèm"
+  },
+  {
+    "id": 1489,
+    "product_id": 81,
+    "attribute_id": 9,
+    "value": "Bảo quản theo loại sản phẩm (mát / khô / đông)"
+  },
+  {
+    "id": 1490,
+    "product_id": 82,
+    "attribute_id": 1,
+    "value": "Quy cách theo đơn & nhãn"
+  },
+  {
+    "id": 1491,
+    "product_id": 82,
+    "attribute_id": 2,
+    "value": "Kích thước / dung tích theo SKU"
+  },
+  {
+    "id": 1492,
+    "product_id": 82,
+    "attribute_id": 3,
+    "value": "Khẩu phần gợi ý"
+  },
+  {
+    "id": 1493,
+    "product_id": 82,
+    "attribute_id": 5,
+    "value": "Đặc trưng «Kẹo muối biển caramel 150g»"
+  },
+  {
+    "id": 1494,
+    "product_id": 82,
+    "attribute_id": 8,
+    "value": "Hạn dùng: tham khảo nhãn đi kèm"
+  },
+  {
+    "id": 1495,
+    "product_id": 82,
+    "attribute_id": 9,
+    "value": "Bảo quản theo loại sản phẩm (mát / khô / đông)"
+  },
+  {
+    "id": 1496,
+    "product_id": 83,
+    "attribute_id": 1,
+    "value": "Quy cách theo đơn & nhãn"
+  },
+  {
+    "id": 1497,
+    "product_id": 83,
+    "attribute_id": 2,
+    "value": "Kích thước / dung tích theo SKU"
+  },
+  {
+    "id": 1498,
+    "product_id": 83,
+    "attribute_id": 3,
+    "value": "Khẩu phần gợi ý"
+  },
+  {
+    "id": 1499,
+    "product_id": 83,
+    "attribute_id": 5,
+    "value": "Đặc trưng «Socola artisan 65% hộp 12 viên»"
+  },
+  {
+    "id": 1500,
+    "product_id": 83,
+    "attribute_id": 8,
+    "value": "Hạn dùng: tham khảo nhãn đi kèm"
+  },
+  {
+    "id": 1501,
+    "product_id": 83,
+    "attribute_id": 9,
+    "value": "Bảo quản theo loại sản phẩm (mát / khô / đông)"
+  },
+  {
+    "id": 1502,
+    "product_id": 84,
+    "attribute_id": 2,
+    "value": "Theo cỡ đặt (inch) hoặc mô tả SKU"
+  },
+  {
+    "id": 1503,
+    "product_id": 84,
+    "attribute_id": 3,
+    "value": "Gợi ý 4–12 người tùy size & cách cắt"
+  },
+  {
+    "id": 1504,
+    "product_id": 84,
+    "attribute_id": 4,
+    "value": "3 lớp cốt trở lên (tùy mẫu kem)"
+  },
+  {
+    "id": 1505,
+    "product_id": 84,
+    "attribute_id": 5,
+    "value": "Hương vị đúng theo tên «Bánh kem sầu riêng 6 inch»"
+  },
+  {
+    "id": 1506,
+    "product_id": 84,
+    "attribute_id": 8,
+    "value": "48–72 giờ ngăn mát từ giao"
+  },
+  {
+    "id": 1507,
+    "product_id": 84,
+    "attribute_id": 9,
+    "value": "Luôn 0–4°C; không để xe nắng nóng"
+  }
+]

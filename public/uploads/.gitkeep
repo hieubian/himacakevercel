@@ -1,0 +1,2 @@
+# Thư mục upload tĩnh — NetBeans Ant: file upload (slide, ảnh SP) lưu tại web/uploads để KHÔNG mất khi Clean.
+# File thật (slides/*.jpg …) có thể không commit; giữ thư mục để build copy sang build/web/uploads.

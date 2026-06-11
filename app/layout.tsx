@@ -16,8 +16,8 @@ export const metadata: Metadata = {
   title: "HIMACAKE - Tiệm bánh tươi mỗi ngày",
   description: "HIMACAKE chuyên bánh kem, bánh tươi, bánh mì, đồ uống. Đặt online, giao tận nơi.",
   icons: {
-    icon: '/assets/img/himacake-logo.png',
-    apple: '/assets/img/himacake-logo.png',
+    icon: '/assets/img/himacakev2.png',
+    apple: '/assets/img/himacakev2.png',
   },
 };
 

@@ -1,11 +1,10 @@
 'use client';
 
 import Link from 'next/link';
-import { useState, useEffect } from 'react';
+import { useState } from 'react';
 import categoriesData from '../../data/categories.json';
 
 export default function Header() {
-  const [isMenuOpen, setIsMenuOpen] = useState(false);
   const [cartCount, setCartCount] = useState(0);
 
   // Parse categories for mega menu
@@ -36,7 +35,7 @@ export default function Header() {
 
         <div className="site-header__main">
           <div className="site-header__main-start">
-            <button className="burger" aria-label="Menu" onClick={() => setIsMenuOpen(!isMenuOpen)}>&#9776;</button>
+            <button className="burger" data-burger aria-label="Menu">&#9776;</button>
 
             <Link className="brand" href="/">
               <span className="brand__icon-wrap" aria-hidden="true">
@@ -64,7 +63,7 @@ export default function Header() {
           </div>
         </div>
 
-        <nav className={`site-nav ${isMenuOpen ? 'site-nav--open' : ''}`} aria-label="Menu chính">
+        <nav className="site-nav" aria-label="Menu chính">
           <div className="site-header__roll-inner">
             <ul className="site-nav__list">
               <li><Link href="/" className="active">Trang chủ</Link></li>
